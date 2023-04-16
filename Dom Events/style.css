@@ -1,0 +1,21 @@
+#container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.box {
+  width: 170px;
+  height: 300px;
+}
+h2,
+span {
+  font-family: roboto;
+  font-size: 2em;
+  display: inline-block;
+}
+
+#selectedColor {
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
