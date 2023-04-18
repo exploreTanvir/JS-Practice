@@ -1,0 +1,10 @@
+var obj = new Date();
+document.write("Date : " + obj.getDate() + "<br>");
+document.write("Day : " + obj.getDay() + "<br>");
+document.write("Year : " + obj.getFullYear() + "<br>");
+document.write("Minutes : " + obj.getMinutes() + "<br>");
+document.write("Hours : " + obj.getHours() + "<br>");
+document.write("Month : " + obj.getMonth() + "<br>");
+document.write("Time Zone : " + obj.getTimezoneOffset() + "<br>");
+document.write("Time : " + obj.getTime() + "<br>");
+document.write("Second : " + obj.getSeconds());
