@@ -154,3 +154,10 @@ nUl.removeChild(lis[0]);
 
 //remove
 lis[1].remove();
+
+//Window object
+function docu() {
+  var w = window.open();
+  w.document.open();
+  w.document.write("Hello i'm Tanvir Hossen Raju");
+}

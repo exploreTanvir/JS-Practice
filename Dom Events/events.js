@@ -33,3 +33,8 @@ for (color of colors) {
     selectedColor.style.background = box.style.background;
   });
 }
+function docu() {
+  var w = window.open();
+  w.document.open();
+  w.document.write("Hello i'm Tanvir Hossen Raju");
+}

@@ -1,0 +1,7 @@
+{
+  "persons": [
+    { "name": "rahim", "age": 25, "hometown": "Jhenaidah" },
+    { "name": "korim", "age": 35, "hometown": "Dhaka" },
+    { "name": "raju", "age": 20, "hometown": "chittagong" }
+  ]
+}
